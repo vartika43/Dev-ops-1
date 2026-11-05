@@ -1,6 +1,7 @@
 DevOps Lab 1 – CI/CD Pipeline Using Jenkins
 Overview
-This project demonstrates the implementation of a basic Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins. A simple Python application is used to demonstrate automated build, testing, and deployment stages.
+This project demonstrates the implementation of a basic Continuous Integration and Continuous Deployment (CI/CD) pipeline using Jenkins. 
+A simple Python application is used to demonstrate automated build, testing, and deployment stages.
 
 Objectives
 Understand the fundamentals of CI/CD.
@@ -50,7 +51,7 @@ The Jenkins pipeline executed successfully.
 
 Application Output:
 
-Hello Ashutosh!
+Hello Vartika!
 Application built using Jenkins CI/CD.
 Final Build Status:
 
